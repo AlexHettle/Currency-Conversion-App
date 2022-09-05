@@ -1,6 +1,6 @@
 # Currency-Conversion-App
 <p> A program that lets the user convert an amount of money between commonly used currencies.</p>
-<img src="Pictures/Screenshot.PNG" width=500>
+<img src="Pictures/Screenshot.png" width=500>
 
 ## Table of Contents
 - [About](#about)
