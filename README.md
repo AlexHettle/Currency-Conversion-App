@@ -8,7 +8,7 @@
 - [How to Use](#usage)
 - [Authors](#authors)
 ## About <a name = "about"></a>
-This program was created in order to enhance my skills in using requests and obtaining data on the web. This program was written over the span of one day.
+This program was created in order to enhance my skills in using requests and obtaining data on the web. It was also made to improve my skills in making GUIs.
 ## Getting Started <a name = "getting_started"></a>
 What you will need to run this program:<br>
 - <em>Python</em>- To run this program, you must have some way to run a .py file. Also, this program was written using python 3.8.3, and has not been tested using any other version. You will also have to install <em>requests</em> to use the program.
